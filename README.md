@@ -4,8 +4,8 @@
 
 Portafolio personal de **Emiliano Ruiz Durán**, estudiante de Ingeniería en Sistemas Computacionales, construido sobre la plantilla Agency de Start Bootstrap conservando su diseño original.
 
-🔗 **Repositorio:** _(pega aquí el link de tu repositorio de GitHub)_
-🔗 **Demo en vivo (GitHub Pages):** _(pega aquí el link de tu GitHub Pages)_
+**Repositorio:** https://github.com/23161115-estud/Actividad4
+**Demo en vivo:** https://23161115-estud.github.io/Actividad4/
 
 ---
 
@@ -114,6 +114,6 @@ Formulario de contacto con validación en JavaScript y mensaje de confirmación 
 
 ---
 
-## 👤 Autor
+## Autor
 
 Emiliano Ruiz Durán · 
