@@ -31,11 +31,11 @@ Portafolio personal de **Emiliano Ruiz Durán**, estudiante de Ingeniería en Si
 
 1. Descargué la plantilla oficial **Agency** de Start Bootstrap con `npm pack startbootstrap-agency` y tomé los archivos ya compilados de su carpeta `dist/`.
 2. Usé como base el repositorio original de la plantilla (`startbootstrap-agency`, rama `gh-pages`) y dejé `css/styles.css` y `js/scripts.js` sin modificar.
-3. Traduje todo el `index.html` al español y reemplacé el contenido de ejemplo por mi información real.
+3. Traduje el `index.html` al español y reemplacé el contenido de ejemplo por mi información real.
 4. Renombré las secciones para que tuvieran sentido en un portafolio individual: "Services" → Skills, "About" (antes una línea de tiempo de una agencia) → Educación (mi propia línea de tiempo escolar), "Team" (antes 3 integrantes de un equipo) → Sobre mí, dejando solo mi propia tarjeta con mi foto real.
-5. **Eliminé la sección "Clients"** (logos de Microsoft, Google, etc.) porque no aplicaba a un portafolio personal.
+5.Eliminé la sección "Clients (logos de Microsoft, Google, etc.) porque no aplicaba a un portafolio personal.
 6. Las tarjetas de proyectos y la línea de tiempo de educación usan solo texto, sin imágenes.
-7. **Quité la dependencia del formulario a "SB Forms"** (servicio externo de pago con token de API) y agregué `js/formulario.js`, una validación simple en JavaScript puro con mensaje de éxito o error local.
+7. Quité la dependencia del formulario a "SB Forms" y agregué `js/formulario.js`, una validación simple en JavaScript puro con mensaje de éxito o error local.
 8. Agregué `css/extras.css` con un ajuste mínimo para las tarjetas de proyecto con texto, y la sección **Certificado**, que muestra la imagen `assets/img/certificado.png`.
 9. Subí el proyecto a GitHub y activé GitHub Pages.
 
